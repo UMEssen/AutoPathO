@@ -1,0 +1,2002 @@
+[
+    {
+        "code": "C00.",
+        "localization": "Lippe",
+        "localization_en": "Lip"
+    },
+    {
+        "code": "C00.0.",
+        "localization": "\u00c4u\u00dfere Oberlippe",
+        "localization_en": "Outer upper lip"
+    },
+    {
+        "code": "C00.1.",
+        "localization": "\u00c4u\u00dfere Unterlippe",
+        "localization_en": "Outer lower lip"
+    },
+    {
+        "code": "C00.2.",
+        "localization": "\u00c4u\u00dfere Lippe o.n.A.",
+        "localization_en": "Outer lip (not otherwise specified)"
+    },
+    {
+        "code": "C00.3.",
+        "localization": "Schleimhaut der Oberlippe",
+        "localization_en": "Oral mucosa of the upper lip"
+    },
+    {
+        "code": "C00.4.",
+        "localization": "Schleimhaut der Unterlippe",
+        "localization_en": "Mucosa of the lower lip"
+    },
+    {
+        "code": "C00.5.",
+        "localization": "Lippenschleimhaut o.n.A.",
+        "localization_en": "Labial mucosa (not otherwise specified)"
+    },
+    {
+        "code": "C00.6.",
+        "localization": "Lippenkommissur",
+        "localization_en": "Mouth commissure"
+    },
+    {
+        "code": "C00.8.",
+        "localization": "Lippe, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Labium, multiple overlapping areas."
+    },
+    {
+        "code": "C00.9.",
+        "localization": "Lippe o.n.A.",
+        "localization_en": "Lip (not otherwise specified)"
+    },
+    {
+        "code": "C01.",
+        "localization": "Zungengrund",
+        "localization_en": "Mouth floor"
+    },
+    {
+        "code": "C01.9.",
+        "localization": "Zungengrund o.n.A.",
+        "localization_en": "Mandible (not otherwise specified)"
+    },
+    {
+        "code": "C02.",
+        "localization": "Sonstige und nicht n\u00e4her bezeichnete Teile der Zunge",
+        "localization_en": "Other and not further specified parts of the tongue"
+    },
+    {
+        "code": "C02.0.",
+        "localization": "Dorsale Oberfl\u00e4che der Zunge",
+        "localization_en": "Dorsum of the tongue"
+    },
+    {
+        "code": "C02.1.",
+        "localization": "Zungenrand",
+        "localization_en": "Lingual margin"
+    },
+    {
+        "code": "C02.2.",
+        "localization": "Ventrale Oberfl\u00e4che der Zunge o.n.A.",
+        "localization_en": "Ventral surface of the tongue (not otherwise specified)"
+    },
+    {
+        "code": "C02.3.",
+        "localization": "Vordere 2/3 der Zunge",
+        "localization_en": "Anterior two-thirds of the tongue"
+    },
+    {
+        "code": "C02.4.",
+        "localization": "Zungentonsille",
+        "localization_en": "Tongue tonsil"
+    },
+    {
+        "code": "C02.8.",
+        "localization": "Zunge, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Tongue"
+    },
+    {
+        "code": "C02.9.",
+        "localization": "Zunge o.n.A.",
+        "localization_en": "Tongue (not otherwise specified)"
+    },
+    {
+        "code": "C03.",
+        "localization": "Zahnfleisch",
+        "localization_en": "Gingiva"
+    },
+    {
+        "code": "C03.0.",
+        "localization": "Oberkieferzahnfleisch",
+        "localization_en": "Gingival mucosa of the upper jaw"
+    },
+    {
+        "code": "C03.1.",
+        "localization": "Unterkieferzahnfleisch",
+        "localization_en": "Gingival mucosa of the mandible"
+    },
+    {
+        "code": "C03.9.",
+        "localization": "Zahnfleisch o.n.A.",
+        "localization_en": "Gingiva (not otherwise specified)"
+    },
+    {
+        "code": "C04.",
+        "localization": "Mundboden",
+        "localization_en": "Floor of the mouth"
+    },
+    {
+        "code": "C04.0.",
+        "localization": "Vorderer Teil des Mundbodens",
+        "localization_en": "Anterior part of the oral floor"
+    },
+    {
+        "code": "C04.1.",
+        "localization": "Seitlicher Teil des Mundbodens",
+        "localization_en": "Alveolar mucosa"
+    },
+    {
+        "code": "C04.8.",
+        "localization": "Mundboden, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Floor of the mouth"
+    },
+    {
+        "code": "C04.9.",
+        "localization": "Mundboden o.n.A.",
+        "localization_en": "Floor of the mouth (not otherwise specified)"
+    },
+    {
+        "code": "C05.",
+        "localization": "Gaumen",
+        "localization_en": "Palate"
+    },
+    {
+        "code": "C05.0.",
+        "localization": "Harter Gaumen",
+        "localization_en": "Hard Palate"
+    },
+    {
+        "code": "C05.1.",
+        "localization": "Weicher Gaumen o.n.A.",
+        "localization_en": "Soft palate (not otherwise specified)"
+    },
+    {
+        "code": "C05.2.",
+        "localization": "Uvula",
+        "localization_en": "Palate"
+    },
+    {
+        "code": "C05.8.",
+        "localization": "Gaumen, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Palate"
+    },
+    {
+        "code": "C05.9.",
+        "localization": "Gaumen o.n.A.",
+        "localization_en": "Palate (not otherwise specified)"
+    },
+    {
+        "code": "C06.",
+        "localization": "Sonstige und nicht n\u00e4her bezeichnete Teile des Mundes",
+        "localization_en": "Other and unspecified parts of the mouth"
+    },
+    {
+        "code": "C06.0.",
+        "localization": "Wangenschleimhaut",
+        "localization_en": "Vulval mucosa"
+    },
+    {
+        "code": "C06.1.",
+        "localization": "Vestibulum oris",
+        "localization_en": "Mouth vestibule"
+    },
+    {
+        "code": "C06.2.",
+        "localization": "Retromolarregion",
+        "localization_en": "Posterior mandibular sulcus"
+    },
+    {
+        "code": "C06.8.",
+        "localization": "Sonstige und nicht n\u00e4her bezeichnete Teile des Mundes, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Other and unspecified parts of the mouth, multiple overlapping areas."
+    },
+    {
+        "code": "C06.9.",
+        "localization": "Mund o.n.A.",
+        "localization_en": "Mouth (not otherwise specified)"
+    },
+    {
+        "code": "C07.",
+        "localization": "Parotis",
+        "localization_en": "Ear canal"
+    },
+    {
+        "code": "C07.9.",
+        "localization": "Parotis",
+        "localization_en": "Ear canal"
+    },
+    {
+        "code": "C08.",
+        "localization": "Sonstige und nicht n\u00e4her bezeichnete gro\u00dfe Speicheldr\u00fcsen",
+        "localization_en": "Major salivary glands"
+    },
+    {
+        "code": "C08.0.",
+        "localization": "Glandula submandibularis",
+        "localization_en": "Submandibular gland"
+    },
+    {
+        "code": "C08.1.",
+        "localization": "Glandula sublingualis",
+        "localization_en": "Sublingual gland"
+    },
+    {
+        "code": "C08.8.",
+        "localization": "Gro\u00dfe Speicheldr\u00fcsen, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Major salivary glands, multiple areas overlapping."
+    },
+    {
+        "code": "C08.9.",
+        "localization": "Gro\u00dfe Speicheldr\u00fcsen o.n.A.",
+        "localization_en": "Major salivary glands (not otherwise specified)"
+    },
+    {
+        "code": "C09.",
+        "localization": "Tonsille",
+        "localization_en": "Tonsils"
+    },
+    {
+        "code": "C09.0.",
+        "localization": "Fossa tonsillaris",
+        "localization_en": "Tonsillar fossa"
+    },
+    {
+        "code": "C09.1.",
+        "localization": "Gaumenbogen",
+        "localization_en": "Palate"
+    },
+    {
+        "code": "C09.8.",
+        "localization": "Tonsille, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Palatine tonsils"
+    },
+    {
+        "code": "C09.9.",
+        "localization": "Tonsille o.n.A.",
+        "localization_en": "Tonsils (not otherwise specified)"
+    },
+    {
+        "code": "C10.",
+        "localization": "Oropharynx",
+        "localization_en": "Throat"
+    },
+    {
+        "code": "C10.0.",
+        "localization": "Vallecula epiglottica",
+        "localization_en": "Epiglottic vallecula"
+    },
+    {
+        "code": "C10.1.",
+        "localization": "Vorderfl\u00e4che der Epiglottis",
+        "localization_en": "Anterior surface of the epiglottis"
+    },
+    {
+        "code": "C10.2.",
+        "localization": "Seitenwand des Oropharynx",
+        "localization_en": "Lateral wall of the oropharynx"
+    },
+    {
+        "code": "C10.3.",
+        "localization": "Hinterwand des Oropharynx",
+        "localization_en": "Posterior wall of the oropharynx"
+    },
+    {
+        "code": "C10.4.",
+        "localization": "Kiemengang",
+        "localization_en": "Submandibular region"
+    },
+    {
+        "code": "C10.8.",
+        "localization": "Oropharynx, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Throat"
+    },
+    {
+        "code": "C10.9.",
+        "localization": "Oropharynx o.n.A.",
+        "localization_en": "Throat (not otherwise specified)"
+    },
+    {
+        "code": "C11.",
+        "localization": "Nasopharynx [Nasenrachenraum]",
+        "localization_en": "Upper part of the throat"
+    },
+    {
+        "code": "C11.0.",
+        "localization": "Obere Wand des Nasopharynx",
+        "localization_en": "Roof of the nasopharynx"
+    },
+    {
+        "code": "C11.1.",
+        "localization": "Hinterwand des Nasopharynx",
+        "localization_en": "Posterior wall of the nasopharynx"
+    },
+    {
+        "code": "C11.2.",
+        "localization": "Seitenwand des Nasopharynx",
+        "localization_en": "Lateral wall of the nasopharynx"
+    },
+    {
+        "code": "C11.3.",
+        "localization": "Vorderwand des Nasopharynx",
+        "localization_en": "Anterior wall of the nasopharynx"
+    },
+    {
+        "code": "C11.8.",
+        "localization": "Nasopharynx, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Upper nasal cavity"
+    },
+    {
+        "code": "C11.9.",
+        "localization": "Nasopharynx o.n.A.",
+        "localization_en": "Upper part of the throat (not otherwise specified)"
+    },
+    {
+        "code": "C12.",
+        "localization": "Sinus piriformis",
+        "localization_en": "Piriform aperture"
+    },
+    {
+        "code": "C12.9.",
+        "localization": "Sinus piriformis",
+        "localization_en": "Piriform aperture"
+    },
+    {
+        "code": "C13.",
+        "localization": "Hypopharynx",
+        "localization_en": "Laryngohypopharynx"
+    },
+    {
+        "code": "C13.0.",
+        "localization": "Regio postcricoidea",
+        "localization_en": "Posterior cervical region"
+    },
+    {
+        "code": "C13.1.",
+        "localization": "Plica aryepiglottica, hypopharyngeale Seite",
+        "localization_en": "Aryepiglottic fold, hypopharyngeal side"
+    },
+    {
+        "code": "C13.2.",
+        "localization": "Hinterwand des Hypopharynx",
+        "localization_en": "Posterior wall of the hypopharynx"
+    },
+    {
+        "code": "C13.8.",
+        "localization": "Hypopharynx, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Laryngohypopharynx"
+    },
+    {
+        "code": "C13.9.",
+        "localization": "Hypopharynx o.n.A.",
+        "localization_en": "Laryngohypopharynx (not otherwise specified)"
+    },
+    {
+        "code": "C14.",
+        "localization": "Sonstiger oder mangelhaft bezeichneter Sitz an Lippe, Mundh\u00f6hle und Pharynx",
+        "localization_en": "Unusual or ill-defined site at lip, oral cavity and pharynx."
+    },
+    {
+        "code": "C14.0.",
+        "localization": "Pharynx o.n.A.",
+        "localization_en": "Throat (not otherwise specified)"
+    },
+    {
+        "code": "C14.2.",
+        "localization": "Waldeyer-Ring",
+        "localization_en": "Palatoglossal fold"
+    },
+    {
+        "code": "C14.8.",
+        "localization": "Lippe, Mundh\u00f6hle und Pharynx, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Mouth, oral cavity, and pharynx"
+    },
+    {
+        "code": "C15.",
+        "localization": "\u00d6sophagus",
+        "localization_en": "Esophagus"
+    },
+    {
+        "code": "C15.0.",
+        "localization": "\u00d6sophagus, Pars cervicalis",
+        "localization_en": "Cervical part of the esophagus"
+    },
+    {
+        "code": "C15.1.",
+        "localization": "\u00d6sophagus, Pars thoracalis",
+        "localization_en": "Thoracic esophagus"
+    },
+    {
+        "code": "C15.2.",
+        "localization": "\u00d6sophagus, Pars abdominalis",
+        "localization_en": "Abdominal part of the esophagus"
+    },
+    {
+        "code": "C15.3.",
+        "localization": "\u00d6sophagus, oberes Drittel",
+        "localization_en": "Upper third of the esophagus"
+    },
+    {
+        "code": "C15.4.",
+        "localization": "\u00d6sophagus, mittleres Drittel",
+        "localization_en": "Middle third of the esophagus"
+    },
+    {
+        "code": "C15.5.",
+        "localization": "\u00d6sophagus, unteres intrathorakales Drittel",
+        "localization_en": "Lower thoracic esophagus"
+    },
+    {
+        "code": "C15.8.",
+        "localization": "\u00d6sophagus, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Esophagus"
+    },
+    {
+        "code": "C15.9.",
+        "localization": "\u00d6sophagus o.n.A.",
+        "localization_en": "Esophagus (not otherwise specified)"
+    },
+    {
+        "code": "C16.",
+        "localization": "Magen",
+        "localization_en": "Abdomen"
+    },
+    {
+        "code": "C16.0.",
+        "localization": "Kardia o.n.A.",
+        "localization_en": "Heart (not otherwise specified)"
+    },
+    {
+        "code": "C16.1.",
+        "localization": "Fundus ventriculi",
+        "localization_en": "Floor of the stomach"
+    },
+    {
+        "code": "C16.2.",
+        "localization": "Corpus ventriculi",
+        "localization_en": "Fundus of the stomach"
+    },
+    {
+        "code": "C16.3.",
+        "localization": "Antrum ventriculi",
+        "localization_en": "Fundus of the stomach"
+    },
+    {
+        "code": "C16.4.",
+        "localization": "Pylorus",
+        "localization_en": "Pylorus"
+    },
+    {
+        "code": "C16.5.",
+        "localization": "Kleine Kurvatur o.n.A",
+        "localization_en": "Lateral curvature of the spine."
+    },
+    {
+        "code": "C16.6.",
+        "localization": "Gro\u00dfe Kurvatur o.n.A",
+        "localization_en": "Occipital curvature"
+    },
+    {
+        "code": "C16.8.",
+        "localization": "Magen, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Abdomen"
+    },
+    {
+        "code": "C16.9.",
+        "localization": "Magen o.n.A.",
+        "localization_en": "Abdomen (not otherwise specified)"
+    },
+    {
+        "code": "C17.",
+        "localization": "D\u00fcnndarm",
+        "localization_en": "Small intestine"
+    },
+    {
+        "code": "C17.0.",
+        "localization": "Duodenum",
+        "localization_en": "Small intestine"
+    },
+    {
+        "code": "C17.1.",
+        "localization": "Jejunum",
+        "localization_en": "Small intestine"
+    },
+    {
+        "code": "C17.2.",
+        "localization": "Ileum",
+        "localization_en": "Small intestine"
+    },
+    {
+        "code": "C17.3.",
+        "localization": "Meckel-Divertikel",
+        "localization_en": "Megaenteric diverticulum"
+    },
+    {
+        "code": "C17.8.",
+        "localization": "D\u00fcnndarm, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Small intestine"
+    },
+    {
+        "code": "C17.9.",
+        "localization": "D\u00fcnndarm o.n.A.",
+        "localization_en": "Small intestine (not otherwise specified)"
+    },
+    {
+        "code": "C18.",
+        "localization": "Kolon",
+        "localization_en": "Colon"
+    },
+    {
+        "code": "C18.0.",
+        "localization": "Z\u00f6kum",
+        "localization_en": "Sacrum"
+    },
+    {
+        "code": "C18.1.",
+        "localization": "Appendix vermiformis",
+        "localization_en": "Veriform appendix"
+    },
+    {
+        "code": "C18.2.",
+        "localization": "Colon ascendens",
+        "localization_en": "Ascending colon"
+    },
+    {
+        "code": "C18.3.",
+        "localization": "Flexura hepatica",
+        "localization_en": "Right liver lobe"
+    },
+    {
+        "code": "C18.4.",
+        "localization": "Colon transversum",
+        "localization_en": "Transverse colon"
+    },
+    {
+        "code": "C18.5.",
+        "localization": "Flexura lienalis coli",
+        "localization_en": "Left iliac fossa"
+    },
+    {
+        "code": "C18.6.",
+        "localization": "Colon descendens",
+        "localization_en": "Descending colon"
+    },
+    {
+        "code": "C18.7.",
+        "localization": "Colon sigmoideum",
+        "localization_en": "Sigmoid colon"
+    },
+    {
+        "code": "C18.8.",
+        "localization": "Kolon, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Colon"
+    },
+    {
+        "code": "C18.9.",
+        "localization": "Colon",
+        "localization_en": "Large intestine"
+    },
+    {
+        "code": "C19.",
+        "localization": "Rektosigmoidaler \u00dcbergang",
+        "localization_en": "Rectosigmoid junction"
+    },
+    {
+        "code": "C19.9.",
+        "localization": "Rektosigmoidaler \u00dcbergang",
+        "localization_en": "Rectosigmoid junction"
+    },
+    {
+        "code": "C20.",
+        "localization": "Rektum",
+        "localization_en": "Rectum"
+    },
+    {
+        "code": "C20.9.",
+        "localization": "Rektum o.n.A.",
+        "localization_en": "Rectum (not otherwise specified)"
+    },
+    {
+        "code": "C21.",
+        "localization": "Analkanal und Anus",
+        "localization_en": "Anal canal and anus"
+    },
+    {
+        "code": "C21.0.",
+        "localization": "Anus o.n.A.",
+        "localization_en": "Anus (not otherwise specified)"
+    },
+    {
+        "code": "C21.1.",
+        "localization": "Analkanal",
+        "localization_en": "Anal canal"
+    },
+    {
+        "code": "C21.2.",
+        "localization": "Kloakenregion",
+        "localization_en": "Perineal region"
+    },
+    {
+        "code": "C21.8.",
+        "localization": "Rektum, Anus und Analkanal, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Rectum, anus, and anal canal, multiple areas overlapping"
+    },
+    {
+        "code": "C22.",
+        "localization": "Leber und intrahepatische Galleng\u00e4nge",
+        "localization_en": "Liver and intrahepatic bile ducts"
+    },
+    {
+        "code": "C22.0.",
+        "localization": "Leber",
+        "localization_en": "Liver"
+    },
+    {
+        "code": "C22.1.",
+        "localization": "Intrahepatische Galleng\u00e4nge",
+        "localization_en": "Intrahepatic bile ducts"
+    },
+    {
+        "code": "C23.",
+        "localization": "Gallenblase",
+        "localization_en": "Gallbladder"
+    },
+    {
+        "code": "C23.9.",
+        "localization": "Gallenblase",
+        "localization_en": "Gallbladder"
+    },
+    {
+        "code": "C24.",
+        "localization": "Sonstige und nicht n\u00e4her bezeichnete Teile der Gallenwege",
+        "localization_en": "Other and not further specified parts of the biliary tract"
+    },
+    {
+        "code": "C24.0.",
+        "localization": "Extrahepatischer Gallengang",
+        "localization_en": "Extrahepatic bile duct"
+    },
+    {
+        "code": "C24.1.",
+        "localization": "Ampulla Vateri",
+        "localization_en": "Vater's ampulla"
+    },
+    {
+        "code": "C24.8.",
+        "localization": "Gallenwege, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Biliary tree, multiple overlapping areas"
+    },
+    {
+        "code": "C24.9.",
+        "localization": "Gallenwege o.n.A.",
+        "localization_en": "Bile ducts (not otherwise specified)"
+    },
+    {
+        "code": "C25.",
+        "localization": "Pankreas",
+        "localization_en": "Pancreas"
+    },
+    {
+        "code": "C25.0.",
+        "localization": "Pankreaskopf",
+        "localization_en": "Pancreatic head"
+    },
+    {
+        "code": "C25.1.",
+        "localization": "Pankreask\u00f6rper",
+        "localization_en": "Pancreas"
+    },
+    {
+        "code": "C25.2.",
+        "localization": "Pankreasschwanz",
+        "localization_en": "Tail of pancreas"
+    },
+    {
+        "code": "C25.3.",
+        "localization": "Ductus pancreaticus",
+        "localization_en": "Pancreatic duct"
+    },
+    {
+        "code": "C25.4.",
+        "localization": "Pankreas-Inselzellen",
+        "localization_en": "Islet cells of the pancreas"
+    },
+    {
+        "code": "C25.7.",
+        "localization": "Sonstige n\u00e4her bezeichnete Teile des Pankreas",
+        "localization_en": "Accessory pancreatic ducts"
+    },
+    {
+        "code": "C25.8.",
+        "localization": "Pankreas, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Pancreas"
+    },
+    {
+        "code": "C25.9.",
+        "localization": "Pankreas o.n.A.",
+        "localization_en": "Pancreas (not otherwise specified)"
+    },
+    {
+        "code": "C26.",
+        "localization": "Sonstiger oder mangelhaft bezeichneter Sitz innerhalb der Verdauungsorgane",
+        "localization_en": "Aberrant location within the digestive organs"
+    },
+    {
+        "code": "C26.0.",
+        "localization": "Intestinaltrakt o.n.A.",
+        "localization_en": "Gastrointestinal tract (not otherwise specified)"
+    },
+    {
+        "code": "C26.8.",
+        "localization": "Verdauungssystem, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Digestive system, multiple overlapping areas"
+    },
+    {
+        "code": "C26.9.",
+        "localization": "Gastrointestinaltrakt o.n.A.",
+        "localization_en": "Gastrointestinal tract (not otherwise specified)"
+    },
+    {
+        "code": "C30.",
+        "localization": "Nasenh\u00f6hle und Mittelohr",
+        "localization_en": "Nasal cavity and middle ear."
+    },
+    {
+        "code": "C30.0.",
+        "localization": "Nasenh\u00f6hle",
+        "localization_en": "Nasal cavity"
+    },
+    {
+        "code": "C30.1.",
+        "localization": "Mittelohr",
+        "localization_en": "Middle ear"
+    },
+    {
+        "code": "C31.",
+        "localization": "Nasennebenh\u00f6hlen",
+        "localization_en": "Paranasal sinuses"
+    },
+    {
+        "code": "C31.0.",
+        "localization": "Sinus maxillaris",
+        "localization_en": "Maxillary sinus"
+    },
+    {
+        "code": "C31.1.",
+        "localization": "Sinus ethmoidalis",
+        "localization_en": "Ethmoid sinus"
+    },
+    {
+        "code": "C31.2.",
+        "localization": "Sinus frontalis",
+        "localization_en": "Frontal sinus"
+    },
+    {
+        "code": "C31.3.",
+        "localization": "Sinus sphenoidalis",
+        "localization_en": "Sphenoidal sinus"
+    },
+    {
+        "code": "C31.8.",
+        "localization": "Nasennebenh\u00f6hlen, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Paranasal sinuses"
+    },
+    {
+        "code": "C31.9.",
+        "localization": "Nasennebenh\u00f6hlen o.n.A.",
+        "localization_en": "Paranasal sinuses (not otherwise specified)"
+    },
+    {
+        "code": "C32.",
+        "localization": "Larynx",
+        "localization_en": "Voice box"
+    },
+    {
+        "code": "C32.0.",
+        "localization": "Glottis",
+        "localization_en": "Vocal cords"
+    },
+    {
+        "code": "C32.1.",
+        "localization": "Supraglottis",
+        "localization_en": "Above the glottis"
+    },
+    {
+        "code": "C32.2.",
+        "localization": "Subglottis",
+        "localization_en": "Lower trachea"
+    },
+    {
+        "code": "C32.3.",
+        "localization": "Larynxknorpel",
+        "localization_en": "Vocal cords"
+    },
+    {
+        "code": "C32.8.",
+        "localization": "Larynx, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Voice box"
+    },
+    {
+        "code": "C32.9.",
+        "localization": "Kehlkopf o.n.A.",
+        "localization_en": "Larynx (not otherwise specified)"
+    },
+    {
+        "code": "C33.",
+        "localization": "Trachea",
+        "localization_en": "Windpipe"
+    },
+    {
+        "code": "C33.9.",
+        "localization": "Trachea",
+        "localization_en": "Windpipe"
+    },
+    {
+        "code": "C34.",
+        "localization": "Bronchus und Lunge",
+        "localization_en": "Lungs and Bronchi"
+    },
+    {
+        "code": "C34.0.",
+        "localization": "Hauptbronchus",
+        "localization_en": "Main bronchus"
+    },
+    {
+        "code": "C34.1.",
+        "localization": "Lungenoberlappen",
+        "localization_en": "Upper lobes"
+    },
+    {
+        "code": "C34.2.",
+        "localization": "Lungenmittellappen",
+        "localization_en": "Middle lobe of the lung"
+    },
+    {
+        "code": "C34.3.",
+        "localization": "Lungenunterlappen",
+        "localization_en": "Lobes"
+    },
+    {
+        "code": "C34.8.",
+        "localization": "Lunge, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Lungs"
+    },
+    {
+        "code": "C34.9.",
+        "localization": "Lunge o.n.A.",
+        "localization_en": "Lungs (not otherwise specified)"
+    },
+    {
+        "code": "C37.",
+        "localization": "Thymus",
+        "localization_en": "Thyroid"
+    },
+    {
+        "code": "C37.9.",
+        "localization": "Thymus",
+        "localization_en": "Thyroid"
+    },
+    {
+        "code": "C38.",
+        "localization": "Herz, Mediastinum und Pleura",
+        "localization_en": "Heart, Mediastinum, and Pleura"
+    },
+    {
+        "code": "C38.0.",
+        "localization": "Herz",
+        "localization_en": "Heart"
+    },
+    {
+        "code": "C38.1.",
+        "localization": "Vorderes Mediastinum",
+        "localization_en": "Anterior mediastinum"
+    },
+    {
+        "code": "C38.2.",
+        "localization": "Hinteres Mediastinum",
+        "localization_en": "Posterior mediastinum"
+    },
+    {
+        "code": "C38.3.",
+        "localization": "Mediastinum o.n.A.",
+        "localization_en": "Median region (not otherwise specified)"
+    },
+    {
+        "code": "C38.4.",
+        "localization": "Pleura o.n.A.",
+        "localization_en": "Chest cavity lining (not otherwise specified)"
+    },
+    {
+        "code": "C38.8.",
+        "localization": "Herz, Mediastinum und Pleura, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Heart, mediastinum, and pleura, multiple overlapping regions"
+    },
+    {
+        "code": "C39.",
+        "localization": "Sonstiger oder mangelhaft bezeichneter Sitz innerhalb der Atemwege [Respirationstrakt] und intrathorakaler Organe",
+        "localization_en": "Other or poorly defined site within the respiratory tract and intrathoracic organs"
+    },
+    {
+        "code": "C39.0.",
+        "localization": "Obere Atemwege o.n.A.",
+        "localization_en": "Upper respiratory tract (not otherwise specified)"
+    },
+    {
+        "code": "C39.8.",
+        "localization": "Atemwege [Respirationstrakt] und intrathorakale Organe, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Respiratory tract and intra-thoracic organs, multiple overlapping regions"
+    },
+    {
+        "code": "C39.9.",
+        "localization": "Mangelhaft bezeichneter Sitz innerhalb der Atmungsorgane",
+        "localization_en": "Pulmonary apex defect"
+    },
+    {
+        "code": "C40.",
+        "localization": "Knochen, Gelenke und Gelenkknorpel der Extremit\u00e4ten",
+        "localization_en": "Extremities' bones, joints and articular cartilages."
+    },
+    {
+        "code": "C40.0.",
+        "localization": "Lange Knochen von Arm und Schulter und zugeh\u00f6rige Gelenke",
+        "localization_en": "Humerus and associated joints."
+    },
+    {
+        "code": "C40.1.",
+        "localization": "Kurze Knochen der oberen Extremit\u00e4ten und zugeh\u00f6rige Gelenke",
+        "localization_en": "Wrist and associated joints."
+    },
+    {
+        "code": "C40.2.",
+        "localization": "Lange Knochen der unteren Extremit\u00e4ten und zugeh\u00f6rige Gelenke",
+        "localization_en": "Lower limb long bones and associated joints."
+    },
+    {
+        "code": "C40.3.",
+        "localization": "Kurze Knochen der unteren Extremit\u00e4ten und zugeh\u00f6rige Gelenke",
+        "localization_en": "Short bones of the lower extremities and associated joints."
+    },
+    {
+        "code": "C40.8.",
+        "localization": "Knochen, Gelenke und Gelenkknorpel der Extremit\u00e4ten, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Extremities' bones, joints and articular cartilages, multiple overlapping regions."
+    },
+    {
+        "code": "C40.9.",
+        "localization": "Knochen einer Extremit\u00e4t o.n.A.",
+        "localization_en": "Bones of a limb (not otherwise specified)"
+    },
+    {
+        "code": "C41.",
+        "localization": "Knochen, Gelenke und Gelenkknorpel sonstiger und nicht n\u00e4her bezeichneter Lokalisationen",
+        "localization_en": "Bones, Joints and Joint Cartilages of unspecified localization."
+    },
+    {
+        "code": "C41.0.",
+        "localization": "Knochen des Hirn- und Gesichtssch\u00e4dels und zugeh\u00f6rige Gelenke",
+        "localization_en": "Cranial bones and associated joints."
+    },
+    {
+        "code": "C41.1.",
+        "localization": "Mandibula",
+        "localization_en": "Jawbone"
+    },
+    {
+        "code": "C41.2.",
+        "localization": "Wirbels\u00e4ule",
+        "localization_en": "Spine"
+    },
+    {
+        "code": "C41.3.",
+        "localization": "Rippen, Sternum, Klavikula und zugeh\u00f6rige Gelenke",
+        "localization_en": "Chest, Sternum, Clavicle and associated joints."
+    },
+    {
+        "code": "C41.4.",
+        "localization": "Beckenknochen, Kreuzbein, Stei\u00dfbein und zugeh\u00f6rige Gelenke",
+        "localization_en": "Pelvic bones, Sacrum, Coccyx and associated joints."
+    },
+    {
+        "code": "C41.8.",
+        "localization": "Knochen, Gelenke und Gelenkknorpel, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Skeletal system, joints, and articular cartilage, multiple overlapping regions."
+    },
+    {
+        "code": "C41.9.",
+        "localization": "Knochen o.n.A.",
+        "localization_en": "Bones (not otherwise specified)"
+    },
+    {
+        "code": "C42.",
+        "localization": "H\u00e4matopoetisches und retikuloendotheliales System",
+        "localization_en": "Hematopoietic and Lymphatic Systems"
+    },
+    {
+        "code": "C42.0.",
+        "localization": "Blut",
+        "localization_en": "Blood"
+    },
+    {
+        "code": "C42.1.",
+        "localization": "Knochenmark",
+        "localization_en": "Bone marrow"
+    },
+    {
+        "code": "C42.2.",
+        "localization": "Milz",
+        "localization_en": "Spleen"
+    },
+    {
+        "code": "C42.3.",
+        "localization": "Retikuloendotheliales System o.n.A.",
+        "localization_en": "Lymphatic system (not otherwise specified)"
+    },
+    {
+        "code": "C42.4.",
+        "localization": "H\u00e4matopoetisches System o.n.A.",
+        "localization_en": "Haematopoietic system (not otherwise specified)"
+    },
+    {
+        "code": "C44.",
+        "localization": "Haut",
+        "localization_en": "Skin"
+    },
+    {
+        "code": "C44.0.",
+        "localization": "Lippenhaut o.n.A.",
+        "localization_en": "Labial mucosa (not otherwise specified)"
+    },
+    {
+        "code": "C44.1.",
+        "localization": "Augenlid",
+        "localization_en": "Eyelid"
+    },
+    {
+        "code": "C44.2.",
+        "localization": "\u00c4u\u00dferes Ohr",
+        "localization_en": "Outer ear"
+    },
+    {
+        "code": "C44.3.",
+        "localization": "Haut sonstiger und nicht n\u00e4her bezeichneter Teile des Gesichtes",
+        "localization_en": "Face"
+    },
+    {
+        "code": "C44.4.",
+        "localization": "Behaarte Kopfhaut und Haut am Hals",
+        "localization_en": "Scalp and neck"
+    },
+    {
+        "code": "C44.5.",
+        "localization": "Haut am Stamm",
+        "localization_en": "Trunk skin"
+    },
+    {
+        "code": "C44.6.",
+        "localization": "Haut der oberen Extremit\u00e4ten und der Schulter",
+        "localization_en": "Upper extremity skin and shoulder region."
+    },
+    {
+        "code": "C44.7.",
+        "localization": "Haut der unteren Extremit\u00e4t und der H\u00fcfte",
+        "localization_en": "Lower extremity and hip skin"
+    },
+    {
+        "code": "C44.8.",
+        "localization": "Haut, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Skin"
+    },
+    {
+        "code": "C44.9.",
+        "localization": "Haut o.n.A.",
+        "localization_en": "Skin (not otherwise specified)"
+    },
+    {
+        "code": "C47.",
+        "localization": "Periphere Nerven und autonomes Nervensystem",
+        "localization_en": "Peripheral nerves and autonomic nervous system"
+    },
+    {
+        "code": "C47.0.",
+        "localization": "Periphere Nerven und autonomes Nervensystem des Kopfes, des Gesichtes und des Halses",
+        "localization_en": "Peripheral nerves and autonomic nervous system of the head, face, and neck."
+    },
+    {
+        "code": "C47.1.",
+        "localization": "Periphere Nerven und autonomes Nervensystem der oberen Extremit\u00e4t und der Schulter",
+        "localization_en": "Peripheral nerves and autonomic nervous system of the upper extremity and shoulder."
+    },
+    {
+        "code": "C47.2.",
+        "localization": "Periphere Nerven und autonomes Nervensystem der unteren Extremit\u00e4t und der H\u00fcfte",
+        "localization_en": "Peripheral nerves and autonomic nervous system of the lower extremity and hip."
+    },
+    {
+        "code": "C47.3.",
+        "localization": "Periphere Nerven und autonomes Nervensystem des Thorax",
+        "localization_en": "Peripheral nerves and autonomic nervous system of the thorax"
+    },
+    {
+        "code": "C47.4.",
+        "localization": "Periphere Nerven und autonomes Nervensystem des Abdomens",
+        "localization_en": "Peripheral nerves and autonomic nervous system of the abdomen"
+    },
+    {
+        "code": "C47.5.",
+        "localization": "Periphere Nerven und autonomes Nervensystem des Beckens",
+        "localization_en": "Peripheral nerves and autonomic nervous system of the pelvis"
+    },
+    {
+        "code": "C47.6.",
+        "localization": "Periphere Nerven und autonomes Nervensystem des Stammes",
+        "localization_en": "Peripheral nerves and autonomic nervous system of the trunk."
+    },
+    {
+        "code": "C47.8.",
+        "localization": "Periphere Nerven und autonomes Nervensystem, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Peripheral nerves and autonomous nervous system, multiple overlapping areas"
+    },
+    {
+        "code": "C47.9.",
+        "localization": "Autonomes Nervensystem o.n.A.",
+        "localization_en": "Autonomic nervous system (not otherwise specified)"
+    },
+    {
+        "code": "C48.",
+        "localization": "Retroperitoneum und Peritoneum",
+        "localization_en": "Posterior retroperitoneal space and Peritoneum"
+    },
+    {
+        "code": "C48.0.",
+        "localization": "Retroperitoneum",
+        "localization_en": "Posterior retroperitoneal space"
+    },
+    {
+        "code": "C48.1.",
+        "localization": "N\u00e4her bezeichnete Teile des Peritoneums",
+        "localization_en": "Visceral peritoneum"
+    },
+    {
+        "code": "C48.2.",
+        "localization": "Peritoneum o.n.A.",
+        "localization_en": "Abdominal cavity lining (not otherwise specified)"
+    },
+    {
+        "code": "C48.8.",
+        "localization": "Retroperitoneum und Peritoneum, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Retroparietal region and Paritoneum, multiple overlapping areas"
+    },
+    {
+        "code": "C49.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile",
+        "localization_en": "Connective tissue, subcutaneous tissue and other soft tissues."
+    },
+    {
+        "code": "C49.0.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile des Kopfes, des Gesichtes und des Halses",
+        "localization_en": "Connective tissue, subcutaneous tissue and other soft tissues of the head, face and neck."
+    },
+    {
+        "code": "C49.1.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile der oberen Extremit\u00e4t und der Schulter",
+        "localization_en": "Connective tissue, subcutaneous tissue and other soft tissues of the upper extremity and shoulder."
+    },
+    {
+        "code": "C49.2.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile der unteren Extremit\u00e4t und der H\u00fcfte",
+        "localization_en": "Connective tissue, subcutaneous tissue and other soft tissues of the lower extremity and hip."
+    },
+    {
+        "code": "C49.3.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile des Thorax",
+        "localization_en": "Connective tissue, subcutaneous tissue and other soft tissues of the thorax."
+    },
+    {
+        "code": "C49.4.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteilgewebe des Abdomen",
+        "localization_en": "Fascia, subcutaneous tissue and other soft tissue of the abdomen."
+    },
+    {
+        "code": "C49.5.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile des Beckens",
+        "localization_en": "Pelvic soft tissues, subcutaneous tissue and other connective tissue of the pelvis."
+    },
+    {
+        "code": "C49.6.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile des Stammes o.n.A.",
+        "localization_en": "Soft tissues of the trunk. (not otherwise specified)"
+    },
+    {
+        "code": "C49.8.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Connective tissue, subcutaneous tissue and other soft tissues, multiple areas overlapping"
+    },
+    {
+        "code": "C49.9.",
+        "localization": "Bindegewebe, Subkutangewebe und sonstige Weichteile o.n.A.",
+        "localization_en": "Connective tissue, subcutaneous tissue and other soft tissues (not otherwise specified)"
+    },
+    {
+        "code": "C50.",
+        "localization": "Brust [Mamma]",
+        "localization_en": "Breast"
+    },
+    {
+        "code": "C50.0.",
+        "localization": "Mamille",
+        "localization_en": "Collarbone"
+    },
+    {
+        "code": "C50.1.",
+        "localization": "Zentraler Dr\u00fcsenk\u00f6rper der Brust",
+        "localization_en": "Central breast glandular body"
+    },
+    {
+        "code": "C50.2.",
+        "localization": "Oberer innerer Quadrant der Brust",
+        "localization_en": "Upper Inner Quadrant of the Breast"
+    },
+    {
+        "code": "C50.3.",
+        "localization": "Unterer innerer Quadrant der Brust",
+        "localization_en": "Inferior internal quadrant of the breast"
+    },
+    {
+        "code": "C50.4.",
+        "localization": "Oberer \u00e4u\u00dferer Quadrant der Brust",
+        "localization_en": "Upper outer quadrant of the breast"
+    },
+    {
+        "code": "C50.5.",
+        "localization": "Unterer \u00e4u\u00dferer Quadrant der Brust",
+        "localization_en": "Lower outer quadrant of the breast"
+    },
+    {
+        "code": "C50.6.",
+        "localization": "Recessus axillaris der Brust",
+        "localization_en": "Axillary recess of the breast"
+    },
+    {
+        "code": "C50.8.",
+        "localization": "Brust, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Breast"
+    },
+    {
+        "code": "C50.9.",
+        "localization": "Brust o.n.A.",
+        "localization_en": "Chest (not otherwise specified)"
+    },
+    {
+        "code": "C51.",
+        "localization": "Vulva",
+        "localization_en": "External female genital area"
+    },
+    {
+        "code": "C51.0.",
+        "localization": "Labium majus",
+        "localization_en": "Upper lip"
+    },
+    {
+        "code": "C51.1.",
+        "localization": "Labium minus",
+        "localization_en": "Lower lip"
+    },
+    {
+        "code": "C51.2.",
+        "localization": "Klitoris",
+        "localization_en": "Clitoris"
+    },
+    {
+        "code": "C51.8.",
+        "localization": "Vulva, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "External female genital area"
+    },
+    {
+        "code": "C51.9.",
+        "localization": "Vulva o.n.A.",
+        "localization_en": "External female genital area (not otherwise specified)"
+    },
+    {
+        "code": "C52.",
+        "localization": "Vagina",
+        "localization_en": "Vulva"
+    },
+    {
+        "code": "C52.9.",
+        "localization": "Vagina o.n.A.",
+        "localization_en": "Vulva (not otherwise specified)"
+    },
+    {
+        "code": "C53.",
+        "localization": "Cervix uteri",
+        "localization_en": "Neck of the uterus"
+    },
+    {
+        "code": "C53.0.",
+        "localization": "Endozervix",
+        "localization_en": "Cervical lining"
+    },
+    {
+        "code": "C53.1.",
+        "localization": "Ektozervix",
+        "localization_en": "External Cervix"
+    },
+    {
+        "code": "C53.8.",
+        "localization": "Cervix uteri, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Neck of the uterus"
+    },
+    {
+        "code": "C53.9.",
+        "localization": "Cervix uteri",
+        "localization_en": "Neck of the uterus"
+    },
+    {
+        "code": "C54.",
+        "localization": "Corpus uteri",
+        "localization_en": "Womb"
+    },
+    {
+        "code": "C54.0.",
+        "localization": "Isthmus uteri",
+        "localization_en": "Cervical isthmus"
+    },
+    {
+        "code": "C54.1.",
+        "localization": "Endometrium",
+        "localization_en": "Inner lining of the uterus"
+    },
+    {
+        "code": "C54.2.",
+        "localization": "Myometrium",
+        "localization_en": "Uterine muscle layer"
+    },
+    {
+        "code": "C54.3.",
+        "localization": "Fundus uteri",
+        "localization_en": "Cervical fundus"
+    },
+    {
+        "code": "C54.8.",
+        "localization": "Corpus uteri, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Uterus"
+    },
+    {
+        "code": "C54.9.",
+        "localization": "Corpus uteri",
+        "localization_en": "Womb"
+    },
+    {
+        "code": "C55.",
+        "localization": "Uterus o.n.A.",
+        "localization_en": "Womb (not otherwise specified)"
+    },
+    {
+        "code": "C55.9.",
+        "localization": "Uterus o.n.A.",
+        "localization_en": "Womb (not otherwise specified)"
+    },
+    {
+        "code": "C56.",
+        "localization": "Ovar",
+        "localization_en": "Ovary"
+    },
+    {
+        "code": "C56.9.",
+        "localization": "Ovar",
+        "localization_en": "Ovary"
+    },
+    {
+        "code": "C57.",
+        "localization": "Sonstige und nicht n\u00e4her bezeichnete Teile der weiblichen Geschlechtsorgane",
+        "localization_en": "Female genital area"
+    },
+    {
+        "code": "C57.0.",
+        "localization": "Eileiter",
+        "localization_en": "Fallopian tubes"
+    },
+    {
+        "code": "C57.1.",
+        "localization": "Ligamentum latum uteri",
+        "localization_en": "Round ligament of uterus"
+    },
+    {
+        "code": "C57.2.",
+        "localization": "Ligamentum rotundum",
+        "localization_en": "Round ligament"
+    },
+    {
+        "code": "C57.3.",
+        "localization": "Parametrium",
+        "localization_en": "Perimetrium"
+    },
+    {
+        "code": "C57.4.",
+        "localization": "Weibliche Adnexe",
+        "localization_en": "Female adnexa"
+    },
+    {
+        "code": "C57.7.",
+        "localization": "Sonstige n\u00e4her bezeichnete Teile der weiblichen Geschlechtsorgane",
+        "localization_en": "Female genitalia"
+    },
+    {
+        "code": "C57.8.",
+        "localization": "Weibliche Geschlechtsorgane, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Female genitalia, multiple areas overlapping"
+    },
+    {
+        "code": "C57.9.",
+        "localization": "Weibliche Geschlechtsorgane o.n.A.",
+        "localization_en": "Female genitalia (not otherwise specified)"
+    },
+    {
+        "code": "C58.",
+        "localization": "Plazenta",
+        "localization_en": "Placenta"
+    },
+    {
+        "code": "C58.9.",
+        "localization": "Plazenta",
+        "localization_en": "Placenta"
+    },
+    {
+        "code": "C60.",
+        "localization": "Penis",
+        "localization_en": "Penis: Penis"
+    },
+    {
+        "code": "C60.0.",
+        "localization": "Pr\u00e4putium",
+        "localization_en": "Foreskin"
+    },
+    {
+        "code": "C60.1.",
+        "localization": "Glans penis",
+        "localization_en": "Head of the penis"
+    },
+    {
+        "code": "C60.2.",
+        "localization": "Penisschaft",
+        "localization_en": "Pelvis"
+    },
+    {
+        "code": "C60.8.",
+        "localization": "Penis, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Genitalia"
+    },
+    {
+        "code": "C60.9.",
+        "localization": "Penis o.n.A.",
+        "localization_en": "Penis: Penis (not otherwise specified)"
+    },
+    {
+        "code": "C61.",
+        "localization": "Prostata",
+        "localization_en": "Prostate"
+    },
+    {
+        "code": "C61.9.",
+        "localization": "Prostata",
+        "localization_en": "Prostate"
+    },
+    {
+        "code": "C62.",
+        "localization": "Testis",
+        "localization_en": "Testicles"
+    },
+    {
+        "code": "C62.0.",
+        "localization": "Kryptorchider Hoden",
+        "localization_en": "Undescended testes"
+    },
+    {
+        "code": "C62.1.",
+        "localization": "Deszendierter Hoden",
+        "localization_en": "Scrotum"
+    },
+    {
+        "code": "C62.9.",
+        "localization": "Testis o.n.A.",
+        "localization_en": "Testicles (not otherwise specified)"
+    },
+    {
+        "code": "C63.",
+        "localization": "Sonstige und nicht n\u00e4her bezeichnete Teile der m\u00e4nnlichen Geschlechtsorgane",
+        "localization_en": "Scrotum and testes"
+    },
+    {
+        "code": "C63.0.",
+        "localization": "Nebenhoden",
+        "localization_en": "Wings of the testes"
+    },
+    {
+        "code": "C63.1.",
+        "localization": "Samenstrang",
+        "localization_en": "Spermatic cord"
+    },
+    {
+        "code": "C63.2.",
+        "localization": "Skrotum o.n.A.",
+        "localization_en": "Scrotum (not otherwise specified)"
+    },
+    {
+        "code": "C63.7.",
+        "localization": "Sonstige n\u00e4her bzeichnete Teile der m\u00e4nnlichen Geschlechtsorgane",
+        "localization_en": "Scrotum"
+    },
+    {
+        "code": "C63.8.",
+        "localization": "M\u00e4nnliche Geschlechtsorgane, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Male genitalia, multiple areas overlapping"
+    },
+    {
+        "code": "C63.9.",
+        "localization": "M\u00e4nnliche Geschlechtsorgane o.n.A.",
+        "localization_en": "Male genitalia (not otherwise specified)"
+    },
+    {
+        "code": "C64.",
+        "localization": "Niere",
+        "localization_en": "Kidney"
+    },
+    {
+        "code": "C64.9.",
+        "localization": "Niere o.n.A.",
+        "localization_en": "Kidney (not otherwise specified)"
+    },
+    {
+        "code": "C65.",
+        "localization": "Nierenbecken",
+        "localization_en": "Renal pelvis"
+    },
+    {
+        "code": "C65.9.",
+        "localization": "Nierenbecken",
+        "localization_en": "Renal pelvis"
+    },
+    {
+        "code": "C66.",
+        "localization": "Ureter",
+        "localization_en": "Urinary tract"
+    },
+    {
+        "code": "C66.9.",
+        "localization": "Ureter",
+        "localization_en": "Urinary tract"
+    },
+    {
+        "code": "C67.",
+        "localization": "Harnblase",
+        "localization_en": "Bladder"
+    },
+    {
+        "code": "C67.0.",
+        "localization": "Trigonum vesicae",
+        "localization_en": "Bladder trigone"
+    },
+    {
+        "code": "C67.1.",
+        "localization": "Blasendach",
+        "localization_en": "Diaphragmatic dome"
+    },
+    {
+        "code": "C67.2.",
+        "localization": "Laterale Harnblasenwand",
+        "localization_en": "Lateral bladder wall"
+    },
+    {
+        "code": "C67.3.",
+        "localization": "Vordere Harnblasenwand",
+        "localization_en": "Anterior bladder wall"
+    },
+    {
+        "code": "C67.4.",
+        "localization": "Hintere Harnblasenwand",
+        "localization_en": "Posterior bladder wall"
+    },
+    {
+        "code": "C67.5.",
+        "localization": "Harnblasenhals",
+        "localization_en": "Urethral meatus"
+    },
+    {
+        "code": "C67.6.",
+        "localization": "Ostium ureteris",
+        "localization_en": "Ureteric orifice"
+    },
+    {
+        "code": "C67.7.",
+        "localization": "Urachus",
+        "localization_en": "Scrotum"
+    },
+    {
+        "code": "C67.8.",
+        "localization": "Harnblase, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Bladder"
+    },
+    {
+        "code": "C67.9.",
+        "localization": "Blase o.n.A.",
+        "localization_en": "Bladder (not otherwise specified)"
+    },
+    {
+        "code": "C68.",
+        "localization": "Sonstige und nicht n\u00e4her bezeichnete Teile des Harntraktes",
+        "localization_en": "Other and not further specified parts of the urinary tract"
+    },
+    {
+        "code": "C68.0.",
+        "localization": "Urethra",
+        "localization_en": "Urinary tract"
+    },
+    {
+        "code": "C68.1.",
+        "localization": "Paraurethrale Dr\u00fcse",
+        "localization_en": "Periurethral gland"
+    },
+    {
+        "code": "C68.8.",
+        "localization": "Harntrakt, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Urinary tract, multiple overlapping regions"
+    },
+    {
+        "code": "C68.9.",
+        "localization": "Harntrakt o.n.A.",
+        "localization_en": "Urinary tract (not otherwise specified)"
+    },
+    {
+        "code": "C69.",
+        "localization": "Auge und Augenanhangsgebilde",
+        "localization_en": "Eye and adnexa"
+    },
+    {
+        "code": "C69.0.",
+        "localization": "Konjunktiva",
+        "localization_en": "Conjunctival region"
+    },
+    {
+        "code": "C69.1.",
+        "localization": "Kornea o.n.A.",
+        "localization_en": "Cornea (not otherwise specified)"
+    },
+    {
+        "code": "C69.2.",
+        "localization": "Retina",
+        "localization_en": "Retina"
+    },
+    {
+        "code": "C69.3.",
+        "localization": "Chorioidea",
+        "localization_en": "Choroid"
+    },
+    {
+        "code": "C69.4.",
+        "localization": "Bulbus oculi",
+        "localization_en": "Eyelid"
+    },
+    {
+        "code": "C69.5.",
+        "localization": "Tr\u00e4nendr\u00fcse",
+        "localization_en": "Lacrimal gland"
+    },
+    {
+        "code": "C69.6.",
+        "localization": "Orbita o.n.A.",
+        "localization_en": "Eye socket (not otherwise specified)"
+    },
+    {
+        "code": "C69.8.",
+        "localization": "Auge und Augenanhangsgebilde, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Eye and adnexa, multiple overlapping regions."
+    },
+    {
+        "code": "C69.9.",
+        "localization": "Auge o.n.A.",
+        "localization_en": "Eye (not otherwise specified)"
+    },
+    {
+        "code": "C70.",
+        "localization": "Meningen",
+        "localization_en": "Meninges"
+    },
+    {
+        "code": "C70.0.",
+        "localization": "Hirnh\u00e4ute",
+        "localization_en": "Dura mater"
+    },
+    {
+        "code": "C70.1.",
+        "localization": "R\u00fcckenmarkh\u00e4ute",
+        "localization_en": "Dorsal dura mater"
+    },
+    {
+        "code": "C70.9.",
+        "localization": "Meningen o.n.A.",
+        "localization_en": "Meninges (not otherwise specified)"
+    },
+    {
+        "code": "C71.",
+        "localization": "Gehirn",
+        "localization_en": "Brain"
+    },
+    {
+        "code": "C71.0.",
+        "localization": "Cerebrum",
+        "localization_en": "Brain"
+    },
+    {
+        "code": "C71.1.",
+        "localization": "Frontallappen",
+        "localization_en": "Frontal lobes"
+    },
+    {
+        "code": "C71.2.",
+        "localization": "Temporallappen",
+        "localization_en": "Temporal lobe"
+    },
+    {
+        "code": "C71.3.",
+        "localization": "Parietallappen",
+        "localization_en": "Temporal lobe"
+    },
+    {
+        "code": "C71.4.",
+        "localization": "Okzipitallappen",
+        "localization_en": "Occipital lobe"
+    },
+    {
+        "code": "C71.5.",
+        "localization": "Ventrikel o.n.A.",
+        "localization_en": "Ventricle (not otherwise specified)"
+    },
+    {
+        "code": "C71.6.",
+        "localization": "Kleinhirn o.n.A.",
+        "localization_en": "Cerebellum (not otherwise specified)"
+    },
+    {
+        "code": "C71.7.",
+        "localization": "Hirnstamm",
+        "localization_en": "Brainstem"
+    },
+    {
+        "code": "C71.8.",
+        "localization": "Gehirn, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Brain"
+    },
+    {
+        "code": "C71.9.",
+        "localization": "Gehirn o.n.A.",
+        "localization_en": "Brain (not otherwise specified)"
+    },
+    {
+        "code": "C72.",
+        "localization": "R\u00fcckenmark, Hirnnerven und sonstige Teile des Zentralnervensystems",
+        "localization_en": "Cervical spinal cord, cranial nerves and other parts of the central nervous system."
+    },
+    {
+        "code": "C72.0.",
+        "localization": "R\u00fcckenmark",
+        "localization_en": "Spinal cord"
+    },
+    {
+        "code": "C72.1.",
+        "localization": "Cauda equina",
+        "localization_en": "Lower back or sacral region"
+    },
+    {
+        "code": "C72.2.",
+        "localization": "N. olfactorius",
+        "localization_en": "Olfactory nerve"
+    },
+    {
+        "code": "C72.3.",
+        "localization": "N. opticus",
+        "localization_en": "Optic nerve"
+    },
+    {
+        "code": "C72.4.",
+        "localization": "N. acusticus",
+        "localization_en": "Acoustic meatus"
+    },
+    {
+        "code": "C72.5.",
+        "localization": "Hirnnerven o.n.A.",
+        "localization_en": "Brain nerves (not otherwise specified)"
+    },
+    {
+        "code": "C72.8.",
+        "localization": "Gehirn und andere Teile des Zentralnervensystems, mehrere Bereiche \u00fcberlappend",
+        "localization_en": "Brain and other parts of the central nervous system, multiple areas overlapping."
+    },
+    {
+        "code": "C72.9.",
+        "localization": "Nervensystem",
+        "localization_en": "Nervous system"
+    },
+    {
+        "code": "C73.",
+        "localization": "Schilddr\u00fcse",
+        "localization_en": "Thyroid"
+    },
+    {
+        "code": "C73.9.",
+        "localization": "Schilddr\u00fcse",
+        "localization_en": "Thyroid"
+    },
+    {
+        "code": "C74.",
+        "localization": "Nebenniere",
+        "localization_en": "Accessory gland"
+    },
+    {
+        "code": "C74.0.",
+        "localization": "Nebennierenrinde",
+        "localization_en": "Adrenal cortex"
+    },
+    {
+        "code": "C74.1.",
+        "localization": "Nebennierenmark",
+        "localization_en": "Adrenal gland"
+    },
+    {
+        "code": "C74.9.",
+        "localization": "Nebenniere o.n.A.",
+        "localization_en": "Accessory gland (not otherwise specified)"
+    },
+    {
+        "code": "C75.",
+        "localization": "Sonstige endokrine Dr\u00fcsen und verwandte Strukturen",
+        "localization_en": "Other endocrine glands and related structures"
+    },
+    {
+        "code": "C75.0.",
+        "localization": "Nebenschilddr\u00fcse",
+        "localization_en": "Accessory thyroid gland"
+    },
+    {
+        "code": "C75.1.",
+        "localization": "Hirnanhangsdr\u00fcse",
+        "localization_en": "Pituitary gland"
+    },
+    {
+        "code": "C75.2.",
+        "localization": "Ductus craniopharyngealis",
+        "localization_en": "Craniopharyngeal duct"
+    },
+    {
+        "code": "C75.3.",
+        "localization": "Glandula pinealis",
+        "localization_en": "Pineal gland"
+    },
+    {
+        "code": "C75.4.",
+        "localization": "Glomus caroticum",
+        "localization_en": "Carotid body"
+    },
+    {
+        "code": "C75.5.",
+        "localization": "Glomus aorticum und sonstige Paraganglien",
+        "localization_en": "Aortic body and other paraganglia"
+    },
+    {
+        "code": "C75.8.",
+        "localization": "Endokrine Dr\u00fcsen und verwandte Strukturen, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Endocrine glands and related structures, multiple overlapping regions"
+    },
+    {
+        "code": "C75.9.",
+        "localization": "Endokrine Dr\u00fcse o.n.A.",
+        "localization_en": "Endocrine gland (not otherwise specified)"
+    },
+    {
+        "code": "C76.",
+        "localization": "Sonstiger oder mangelhaft bezeichneter Sitz",
+        "localization_en": "Unspecified site or location not elsewhere classified (ICD-10)"
+    },
+    {
+        "code": "C76.0.",
+        "localization": "Kopf, Gesicht oder Hals o.n.A.",
+        "localization_en": "Head, face or neck (not otherwise specified)"
+    },
+    {
+        "code": "C76.1.",
+        "localization": "Thorax o.n.A.",
+        "localization_en": "Chest (not otherwise specified)"
+    },
+    {
+        "code": "C76.2.",
+        "localization": "Abdomen o.n.A.",
+        "localization_en": "Abdomen: Belly (not otherwise specified)"
+    },
+    {
+        "code": "C76.3.",
+        "localization": "Becken o.n.A.",
+        "localization_en": "Pelvis (not otherwise specified)"
+    },
+    {
+        "code": "C76.4.",
+        "localization": "Obere Extremit\u00e4t o.n.A.",
+        "localization_en": "Upper extremity (not otherwise specified)"
+    },
+    {
+        "code": "C76.5.",
+        "localization": "Untere Extremit\u00e4t o.n.A.",
+        "localization_en": "Lower extremity (not otherwise specified)"
+    },
+    {
+        "code": "C76.7.",
+        "localization": "Sonstiger mangelhaft bezeichneter Sitz",
+        "localization_en": "Perineum"
+    },
+    {
+        "code": "C76.8.",
+        "localization": "Mangelhaft bezeichneter Sitz, mehrere Teilbereiche \u00fcberlappend",
+        "localization_en": "Inadequate sitting area, multiple overlapping parts."
+    },
+    {
+        "code": "C77.",
+        "localization": "Lymphknoten",
+        "localization_en": "Lymph nodes"
+    },
+    {
+        "code": "C77.0.",
+        "localization": "Lymphknoten des Kopfes, des Gesichtes und des Halses",
+        "localization_en": "Cervical lymph nodes"
+    },
+    {
+        "code": "C77.1.",
+        "localization": "Intrathorakaler Lymphknoten",
+        "localization_en": "Intrapulmonary lymph nodes"
+    },
+    {
+        "code": "C77.2.",
+        "localization": "Intraabdominaler Lymphknoten",
+        "localization_en": "Intra-abdominal lymph node"
+    },
+    {
+        "code": "C77.3.",
+        "localization": "Lymphknoten der Achseln und Arme",
+        "localization_en": "Axillary and arm lymph nodes"
+    },
+    {
+        "code": "C77.4.",
+        "localization": "Lymphknoten der Inguinalregion und des Beines",
+        "localization_en": "Inguinal lymph nodes and leg lymph nodes."
+    },
+    {
+        "code": "C77.5.",
+        "localization": "Beckenlymphknoten",
+        "localization_en": "Inguinal lymph nodes"
+    },
+    {
+        "code": "C77.8.",
+        "localization": "Lymphknoten mehrerer Regionen",
+        "localization_en": "Lymph nodes of multiple regions"
+    },
+    {
+        "code": "C77.9.",
+        "localization": "Lymphknoten o.n.A.",
+        "localization_en": "Lymph nodes (not otherwise specified)"
+    },
+    {
+        "code": "C80.",
+        "localization": "Unbekannte Prim\u00e4rlokalisation",
+        "localization_en": "Unknown primary location"
+    },
+    {
+        "code": "C80.9.",
+        "localization": "Unbekannte Prim\u00e4rlokalisation",
+        "localization_en": "Unknown primary location"
+    }
+]

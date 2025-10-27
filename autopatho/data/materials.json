@@ -1,0 +1,97 @@
+[
+    {
+        "code": 1,
+        "material": "Biopsie",
+        "comment": null,
+        "material_en": "Biopsy"
+    },
+    {
+        "code": 2,
+        "material": "Feinnadelaspiration",
+        "comment": "EBUS-TBNA",
+        "material_en": "Fine needle aspiration",
+        "comment_en": "Endobronchial ultrasound-guided transbronchial needle aspiration."
+    },
+    {
+        "code": 3,
+        "material": "Stanze (Gewebe)",
+        "comment": null,
+        "material_en": "Stratum"
+    },
+    {
+        "code": 4,
+        "material": "Exzision",
+        "comment": null,
+        "material_en": "Excision"
+    },
+    {
+        "code": 5,
+        "material": "Organresektat",
+        "comment": null,
+        "material_en": "Organ resection"
+    },
+    {
+        "code": 6,
+        "material": "Mehrorganresektat",
+        "comment": null,
+        "material_en": "Multivisceral resection"
+    },
+    {
+        "code": 7,
+        "material": "Gliedma\u00dfenamputat",
+        "comment": null,
+        "material_en": "Amputation"
+    },
+    {
+        "code": 8,
+        "material": "Explantat",
+        "comment": null,
+        "material_en": "Explant"
+    },
+    {
+        "code": 9,
+        "material": "Abstrich/Ausstrich",
+        "comment": null,
+        "material_en": "Aspirate"
+    },
+    {
+        "code": 10,
+        "material": "Punktion (Zytologie)",
+        "comment": null,
+        "material_en": "Biopsy (cytology)"
+    },
+    {
+        "code": 11,
+        "material": "andere (Zytologie)",
+        "comment": "z.B. Erguss",
+        "material_en": "Other (cytology)",
+        "comment_en": "Dross"
+    },
+    {
+        "code": 12,
+        "material": "andere (Histologie)",
+        "comment": "\u2026man wei\u00df nicht, was man ausw\u00e4hlen soll",
+        "material_en": "Other (histology)",
+        "comment_en": "You don't know what to choose."
+    },
+    {
+        "code": 13,
+        "material": "MKC (mikrographisch kontrollierte Chirurgie)",
+        "comment": "Code ausschlie\u00dflich f\u00fcr die Hautklinik",
+        "material_en": "Microscopically controlled surgery",
+        "comment_en": "Please provide the text you'd like me to translate, and I'll give you the English translation only."
+    },
+    {
+        "code": 14,
+        "material": "Hautexzision mit Sicherheitsabstand ",
+        "comment": "Code ausschlie\u00dflich f\u00fcr die Hautklinik",
+        "material_en": "Skin excision with safety margin",
+        "comment_en": "Please provide the text you'd like me to translate, and I'll give you the English translation only."
+    },
+    {
+        "code": 15,
+        "material": "Liquid Biopsy",
+        "comment": null,
+        "material_en": "Non-invasive Prenatal Testing (NIPT)"
+    }
+]

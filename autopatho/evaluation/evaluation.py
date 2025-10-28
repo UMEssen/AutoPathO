@@ -11,7 +11,7 @@ from sklearn.metrics import f1_score, recall_score, accuracy_score, precision_sc
 def load_localization_codes() -> list:
     loc_json_file = Path('data/localizations.json')
     if not loc_json_file.exists():
-        loc = pd.read_excel('data/Diagnosecodeliste_ICD-O-T_DIMDI.xlsx')
+        loc = pd.read_excel('data/list_of_diagnosis.xlsx')
         loc_codes = [{'code':row['Value'], 'localization':row['Bedeutung']} for _, row in loc.iterrows()]
         json.dump(loc_codes, open(str(loc_json_file), 'w'), indent=4)
         return loc_codes

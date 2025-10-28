@@ -7,7 +7,7 @@
 
 A small Python toolkit to extract ICD-10 and ICD-O codes from pathology reports using prompt-driven LLM inference.
 
-This repository contains utilities to load localization/material code lists, build LLM prompts, call an LLM (either OpenAI-compatible or on-prem), and a convenience script to process a CSV of pathology findings and write predictions back to disk.
+This repository contains utilities to load localization code lists, build LLM prompts, call an LLM (either OpenAI-compatible or on-prem), and a convenience script to process a CSV of pathology findings and write predictions back to disk.
 
 **If you use this package, please cite:**
 

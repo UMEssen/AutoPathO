@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from datetime import datetime
 from joblib import delayed, Parallel
-from .evaluation import preprocess_df_icdo, evaluation_complete, preprocess_df_icd10, preprocess_deepseek_icdo, preprocess_deepseek_icd10, evaluation_three_characters, evaluation_complete_per_class, evaluation_three_characters_per_class
+from evaluation import preprocess_df_icdo, evaluation_complete, preprocess_df_icd10, preprocess_deepseek_icdo, preprocess_deepseek_icd10, evaluation_three_characters, evaluation_complete_per_class, evaluation_three_characters_per_class
 
 def save_results_to_csv(all_results, output_dir="results"):
     """

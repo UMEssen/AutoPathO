@@ -1,12 +1,21 @@
 import re
+import json
 import asyncio
 import pandas as pd
 from pathlib import Path
 from dotenv import load_dotenv
-from .helpers import load_material_codes, load_localization_codes
-from .llm import generate_icd_code
+from llm import generate_icd_code
 
 load_dotenv()
+
+def load_localization_codes() -> list:
+    loc_json_file = Path('data/localizations.json')
+    if not loc_json_file.exists():
+        loc = pd.read_excel('data/diagnoseliste.xlsx')
+        loc_codes = [{'code':row['Value'], 'localization':row['Bedeutung']} for _, row in loc.iterrows()]
+        json.dump(loc_codes, open(str(loc_json_file), 'w'), indent=4)
+        return loc_codes
+    return json.load(open(str(loc_json_file)))
 
 def regex_icd_codes(doc: str):
     # use regex to extract the ICD-1O code from the document
@@ -54,7 +63,6 @@ async def handle_code_extraction(cases: pd.DataFrame, csv_path: str):
 
 if __name__ == "__main__":
     loc_codes = load_localization_codes()
-    mat_codes = load_material_codes()
     initial_csv_path = "data/initial_dataset.csv"
     csv_path = "data/model_name_results.csv"
     cases = pd.read_csv(csv_path if Path(csv_path).exists() else initial_csv_path)

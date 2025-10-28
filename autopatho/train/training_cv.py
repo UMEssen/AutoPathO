@@ -14,7 +14,7 @@ from sklearn.metrics import f1_score, recall_score, precision_score
 from transformers import Trainer, AutoTokenizer, TrainingArguments, AutoModelForSequenceClassification
 
 # Configuration parameters
-TARGET_COLUMN = "GT_ICD-O"  # Change this to "GT_ICD-O" to train on ICD-O codes
+TARGET_COLUMN = "GT_ICD-10"  # Change this to "GT_ICD-O" to train on ICD-O codes
 model_name = 'EuroBERT/EuroBERT-610m'
 
 # Determine project name and model suffix based on target column

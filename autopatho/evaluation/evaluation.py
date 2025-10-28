@@ -1,21 +1,9 @@
 import re
 import ast
-import json
 import numpy as np
 import pandas as pd
-from pathlib import Path
-from transformers import AutoTokenizer
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.metrics import f1_score, recall_score, accuracy_score, precision_score, multilabel_confusion_matrix
-
-def load_localization_codes() -> list:
-    loc_json_file = Path('data/localizations.json')
-    if not loc_json_file.exists():
-        loc = pd.read_excel('data/list_of_diagnosis.xlsx')
-        loc_codes = [{'code':row['Value'], 'localization':row['Bedeutung']} for _, row in loc.iterrows()]
-        json.dump(loc_codes, open(str(loc_json_file), 'w'), indent=4)
-        return loc_codes
-    return json.load(open(str(loc_json_file)))
 
 def extract_icd_code(text):
     match_icd_10 = re.findall(r'[A-TV-Z][0-9][0-9AB]\.?[0-9A-TV-Z]{0,4}', text)
@@ -79,32 +67,9 @@ def preprocess_deepseek_icd10(df):
             if icd_codes \
             and not any(extracted_text.startswith(prefix) for prefix in invalid_prefixes) \
             and "</think>" not in extracted_text:
-                #if len(icd_codes) > 4:
-                    #print("More than 4 codes found")
                 return icd_codes
         
-        #print(text)
-        #print("\n\n")
         return None
-    
-    loc_codes = load_localization_codes()
-    prompt = [
-        'Bestimme den am besten passenden Topographiecode der ICD-O-3 Klassifikation für die anatomische Lokalisation des Tumors aus dem folgenden Pathologiebefund.',
-        '\nWähle den am besten passenden Code aus der folgenden Liste und gib ausschließlich den Code ohne zusätzliche Erklärung oder Beschreibung zurück.'
-        '\nFalls keine exakte Übereinstimmung möglich ist, gib den nächstliegenden Code an.'
-        '\nListe der möglichen Topographie-Codes: ' + ', '.join(f"{lc['localization']} ({lc['code']})" for lc in loc_codes),
-        "\nAntwort: "
-    ]
-    prompt = '\n'.join(prompt)
-    tokenizer = AutoTokenizer.from_pretrained("deepset/gbert-large")
-            
-    for i, row in df.iterrows():
-        report = row["Befunde"]
-        encoded_prompt = tokenizer.encode_plus(prompt)
-        prompt_length = len(encoded_prompt['input_ids'])
-        report_length = len(tokenizer.encode_plus(report)['input_ids'])
-        icd_codes = remove_think_tags(row["Generated_ICD-10"], tokenizer)
-        
     
     df["Generated_ICD-10_wo_locs"] = df["Generated_ICD-10_wo_locs"].apply(lambda x: remove_think_tags(x) if pd.notna(x) else "")   
     # filter out rows with empty "Generated_ICD-10" column
@@ -116,8 +81,6 @@ def preprocess_deepseek_icd10(df):
 def preprocess_df_icdo(df):
     df = df[df["Generated_ICD-O"].isnull() == False]
     df["GT_ICD-O"] = df["GT_ICD-O"].apply(lambda x: set(ast.literal_eval(x)) if pd.notna(x) else set())
-    #df["Generated_ICD-O"] = df["Generated_ICD-O"].apply(lambda x: set(code.rstrip('.') for code in ast.literal_eval(x)) if pd.notna(x) else set())
-
     df["Generated_ICD-O"] = df["Generated_ICD-O"].apply(lambda x: extract_icd_o_code(x) if pd.notna(x) else None)
     # filter out rows with empty "Generated_ICD-10" column
     df = df[df["Generated_ICD-O"].isnull() == False]
@@ -130,7 +93,6 @@ def preprocess_deepseek_icdo(df):
 
     # remove <think> tags and their content from the generated ICD-10 codes
     def remove_think_tags(text):
-        #extracted_text = re.sub(r'<think>.*?</think>\\n\\n', '', text).replace('\'', '').removesuffix('.')
         patterns = [
             r'Okay.*?<\/think>[\r\n\\n]*',
             r'<think>.*?<\/think>[\r\n\\n]*',
@@ -142,9 +104,7 @@ def preprocess_deepseek_icdo(df):
             extracted_text = re.sub(pattern, '', text).replace('\'', '').removesuffix('.')
             icd_o_codes = extract_icd_o_code(extracted_text)
             # Check if we found valid codes
-            if icd_o_codes and "</think>" not in extracted_text:
-                #if len(icd_o_codes) > 4:
-                    #print("More than 4 codes found")  
+            if icd_o_codes and "</think>" not in extracted_text: 
                 return icd_o_codes
         return None
 
@@ -162,7 +122,6 @@ def evaluation_complete(df, gt_column, pred_column):
     for idx, row in df.iterrows():
         all_codes.update(row[gt_column])
         all_codes.update(row[pred_column])
-        #all_codes.update(row["Generated_ICD-10_wo_locs"])
     
     # Remove incomplete codes (ending with '-') from the codes for binarization
     all_complete_codes = {code for code in all_codes if not code.endswith('-')}
@@ -206,7 +165,7 @@ def evaluation_complete(df, gt_column, pred_column):
     y_true_binary = mlb.fit_transform(y_true_lists)
     y_pred_binary = mlb.transform(y_pred_lists)
     
-        # Calculate multilabel confusion matrix
+    # Calculate multilabel confusion matrix
     mcm = multilabel_confusion_matrix(y_true_binary, y_pred_binary)
     
     # Calculate aggregated confusion matrix values

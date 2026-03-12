@@ -11,7 +11,7 @@ This repository contains utilities to load localization code lists, build LLM pr
 
 **If you use this package, please cite:**
 
-Arzideh K., Hosch R., Turki T., et al. Automated ICD-O-3 Coding of Real-World Pathology Reports Using Self-Hosted Large Language Models. medRxiv (2025). https://doi.org/10.1101/2025.07.23.25332040
+Arzideh K., Hosch R., Turki A., et al. Automated Tumor International Classification of Diseases Coding of Real-World Pathology Reports Using Self-Hosted Large Language Models. JCO Clin Cancer Inform 10, e2500254 (2026). [https://doi.org/10.1101/2025.07.23.25332040](https://doi.org/10.1200/CCI-25-00254)
 
 ## Highlights
 
